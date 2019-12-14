@@ -1,0 +1,26 @@
+{
+  "name": "divy-proxy",
+  "version": "1.0.0",
+  "description": "proxy with containers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon proxy/server/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Robinhood-Clone/Divyanka-Salona-Proxy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Robinhood-Clone/Divyanka-Salona-Proxy/issues"
+  },
+  "devDependencies": {
+    "express": "^4.17.1"
+  },
+  "dependencies": {
+    "cors": "2.8.5"
+  },
+  "homepage": "https://github.com/Robinhood-Clone/Divyanka-Salona-Proxy#readme"
+}
